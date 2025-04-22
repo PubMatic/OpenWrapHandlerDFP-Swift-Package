@@ -11,8 +11,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "OpenWrapHandlerDFP",
-            url: "https://repo.pubmatic.com/artifactory/public-repos/ios/openwrap-handler-dfp/5.2.0/openwrap-handler-dfp-5.2.0.zip",
-            checksum: "43ea71667f65d862b3a728762716b5fe9ff2f5fe1ac17235f1c9dff01b017e96"
+            url: "https://repo.pubmatic.com/artifactory/public-repos/ios/openwrap-handler-dfp/5.2.1/openwrap-handler-dfp-5.2.1.zip",
+            checksum: "72352e0357857c66ec4f8b2a956100cabf69481046379c29166da5721037a831"
         )
     ]
 )
